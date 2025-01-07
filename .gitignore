@@ -1,0 +1,19 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Environment files
+.env
+
+# Build outputs
+dist/
+build/
+
+# Docker-related
+docker-compose.override.yml
+*.dockerignore
